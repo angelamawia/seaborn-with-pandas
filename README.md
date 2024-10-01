@@ -12,15 +12,15 @@ The dataset is sourced from Kaggle and contains the following columns:
 - **Race**: The racial background of the inmate.
 - **Last Statement**: The final words spoken by the inmate before execution.
 - **Eye_color**: The eye color of each inmate.
-- **Execution_date**: The date each inmate was executed.
+- **Execution date**: The date each inmate was executed.
 - **County**: The county from which the inmate belongs.
 - **Weight**: The weight of each inmate.
 - **Height**: The height of each inmate.
-- **Date_of_offense**: The date which the inmate commited the offense.
-- **Date_of_birth**: The date each inmate was born.
-- **Native_state**: The state at where each inmate lived.
+- **Date of offense**: The date which the inmate commited the offense.
+- **Date of birth**: The date each inmate was born.
+- **Native State**: The state at where each inmate lived.
 
-- 
+  
 ## Analysis
 The analysis performed includes:
 
