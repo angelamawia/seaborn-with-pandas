@@ -54,9 +54,6 @@ In this section, we perform a sentiment analysis of the last statements provided
 - **Presence of Neutral Sentiments**: A notable number of statements convey neutrality, indicating some inmates acknowledged their situation without strong emotional engagement, potentially reflecting resignation.
 - **Lower Frequency of Negative Sentiments**: The small number of negative sentiments suggests that few inmates expressed overt despair or anger, indicating a possible tendency to focus on positive reflections.
 
-Overall, this sentiment analysis reveals the complexity of emotions that inmates experience, showcasing their resilience, hope, and desire for connection, even in their final moments.
-
-
 ### 3. **Education Level Distribution**
 A count plot visualizes the highest education levels attained by inmates. The findings highlight the educational background of those on death row, revealing significant disparities.
 
@@ -89,8 +86,21 @@ A pairplot provides insights into relationships between multiple variables, allo
 - Age at execution varies, with noticeable peaks at certain age groups.
 - Racial demographics show significant disparities, with certain races being overrepresented.
 
+### Justice Reflections Through Last Statements: Insights from Death Row Inmates
+
+This analysis of death row inmates' last words provides an emotionally complex view into the intersection of justice and humanity. It reveals important themes that challenge the conventional understanding of capital punishment and the justice system's role in society.
+
+**Key Insights:**
+- **Emotional Resilience and Humanity**: The positive sentiments expressed by inmates—such as love, gratitude, and forgiveness—suggest a surprising capacity for emotional reconciliation. This challenges us to reconsider the potential for redemption even in those sentenced to death.
+  
+- **Remorse and Accountability**: Many inmates sought forgiveness and expressed regret for their actions. This raises important questions about how justice accounts for expressions of remorse and whether there is enough space for rehabilitation in the process.
+
+- **Moral Reflections on Capital Punishment**: The words of some inmates, who believed that only God has the authority to take life, prompt ethical debates on the legitimacy of the death penalty. This raises important concerns about the state's role in enacting capital punishment.
+
+- **Racial and Socio-Economic Disparities**: The analysis also hints at potential biases in the justice system, with race and education playing significant roles in death row sentencing. This calls for a deeper examination of fairness and equity in capital punishment.
+
 ## Conclusion
-This EDA provides valuable insights into the profiles of inmates on death row in Texas. The visualizations and analyses can aid in understanding the socio-economic and racial factors contributing to the death penalty.
+This analysis provides a thoughtful reflection on the humanity of inmates and the broader moral and ethical questions that surround capital punishment in modern justice systems.
 
 ## Future Work
 Further analyses could include:
