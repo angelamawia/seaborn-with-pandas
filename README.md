@@ -12,7 +12,7 @@ The dataset is sourced from Kaggle and contains the following columns:
 - **Age at Execution**: The age of the inmate at the time of execution.
 - **Highest Education Level**: The highest level of education attained by the inmate.
 - **Race**: The racial background of the inmate.
-- **Last Statement**: The final words spoken by the inmate before execution.
+- **Last Statement**: The final words written by the inmate before execution.
 - **Eye_color**: The eye color of each inmate.
 - **Execution date**: The date each inmate was executed.
 - **County**: The county from which the inmate belongs.
