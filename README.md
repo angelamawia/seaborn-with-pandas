@@ -3,7 +3,7 @@
 ## Overview
 This repository contains an exploratory data analysis (EDA) of a dataset focused on inmates in Texas who were on death row prior to their executions in 2018. The dataset provides insights into various aspects of the inmates' backgrounds, including their last statements, education levels, and racial demographics.
 
-The **"Statement"** column evokes a deep emotional response as it captures the last words shared by these inmates. Many express regret for their offenses, while others reflect on their lives and ask for forgiveness from the families they have affected. This poignant blend of regret, reflection, and reconciliation makes the data not just a collection of statistics, but a profound narrative about human experiences and the complexities of justice.
+The **"Statement"** column evokes a deep emotional response as it captures the last words shared by these inmates. Many express regret for their offenses, while others reflect on their lives and ask for forgiveness from the families they have affected. Some inmates convey a belief that only God has the authority to take a human life, not fellow human beings. This poignant blend of regret, reflection, and moral contemplation makes the data not just a collection of statistics, but a profound narrative about human experiences and the complexities of justice.
 
 ## Dataset
 The dataset is sourced from Kaggle and contains the following columns:
