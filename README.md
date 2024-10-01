@@ -5,6 +5,8 @@ This repository contains an exploratory data analysis (EDA) of a dataset focused
 
 The **"Statement"** column evokes a deep emotional response as it captures the last words shared by these inmates. Many express regret for their offenses, while others reflect on their lives and ask for forgiveness from the families they have affected. Some inmates convey a belief that only God has the authority to take a human life, not fellow human beings. This poignant blend of regret, reflection, and moral contemplation makes the data not just a collection of statistics, but a profound narrative about human experiences and the complexities of justice.
 
+Many thanks to the authorities in Texas for releasing this data, collected to aid research and ensure that the lessons learned from these cases contribute to preventing similar executions in the future.With great respect, I analyze this dataset to uncover the profound stories it tells about human experiences, justice, and the complexities of life and death. 
+
 ## Dataset
 The dataset is sourced from Kaggle and contains the following columns:
 - **Age at Execution**: The age of the inmate at the time of execution.
