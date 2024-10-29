@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Texas Death Row Inmates (2018)
+# Exploratory Data Analysis of Texas Death Row Inmates (2018) Dataset
 
 ## Overview
 This repository contains an exploratory data analysis (EDA) of a dataset focused on inmates in Texas who were on death row prior to their executions in 2018. The dataset provides insights into various aspects of the inmates' backgrounds, including their last statements, education levels, and racial demographics.
